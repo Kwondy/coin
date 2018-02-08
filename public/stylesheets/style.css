@@ -1,0 +1,80 @@
+body {
+	padding-top: 45px;
+  	padding-bottom: 4rem;
+  	color: #5a5a5a;
+	line-height: 1;
+
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+/* nav 글자색상(회색) */
+.color_gray{
+	color:#bcbcbc;
+}
+
+.color_gold{
+	color:#e8b342;
+}
+
+
+.exchange{
+	border-left: 3px solid #5b5b5b;
+	border-right: 3px solid #232323;
+	box-shadow: -3px 0 0 #232323, 3px 0 0 #5b5b5b;
+}
+
+.main_banner{
+	max-width: 100%;
+	min-height: 300px;
+	background-color:#000000;
+}
+
+.banner_slog{
+	font-size: 24px;
+	color:#e8b342;
+	height:24px;
+	line-height:100px;
+	text-align:center;
+}
+
+.scope{
+	max-width:100%;
+	min-height:46px;
+	background:#404040;
+
+}
+
+.index_market{
+	margin:20px 0 30px;
+}
+
+.container{
+	width:100%;
+	margin:0 auto;
+}
+
+.verifyLayout{
+	box-sizing:border-box;
+	height:100%;
+	min-width:870px;
+	min-height:608px;
+	background:#f7f7f7;
+	padding-bottom:82px;
+	position:relative;
+}
+
+.main{
+	min-height: 370px;
+	width:518px;
+	padding:30px 30px 40px;
+	background:#fff;
+	left:50%;
+	top:55%;
+	text-align: center;
+	transform:translate(-50%,-50%);
+	margin-top:-41px;
+}
+
+.logo{
+	display:inline-block;
+	height: 64px;
+}
